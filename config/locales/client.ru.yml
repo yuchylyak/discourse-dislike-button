@@ -1,0 +1,50 @@
+# encoding: utf-8
+#
+# Never edit this file. It will be overwritten when translations are pulled from Transifex.
+#
+# To work with us on translations, join this project:
+# https://www.transifex.com/projects/p/discourse-org/
+
+ru:
+  js:
+    views: "Просмотров"
+    likes: "Лайков"
+    user:
+      private_messages: "Сообщения"
+      created: "Регистрация"
+      summary:
+        time_read: "за чтением"
+        top_topics: "Лучшие посты"
+        top_links: "Топ ссылки"
+        most_replied_to_users: "Фавориты"
+        most_liked_by: "Больше всего лайков от"
+        most_liked_users: "Больше всего лайкнул"
+        top_badges: "Награды"
+        more_replies: "Показать больше"
+        more_topics: "Показать больше"
+        more_badges: "Показать больше"
+        days_visited:
+          one: "день посещения"
+          few: "дня посещения"
+          many: "дней посещал"
+          other: "дней посещал"
+        topics_entered:
+          one: "тему посмотрел"
+          few: "темы посмотрел"
+          many: "тем просмотрено"
+          other: "тем просмотрено"
+        posts_read:
+          one: "сообщение прочитано"
+          few: "сообщения прочитано"
+          many: "сообщений прочитано"
+          other: "сообщений прочитано"
+        likes_given:
+          one: "поставлен"
+          few: "поставлено"
+          many: "поставлено"
+          other: "поставлено"
+        likes_received:
+          one: "получено"
+          few: "получено"
+          many: "получено"
+          other: "получено"

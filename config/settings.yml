@@ -1,0 +1,18 @@
+basic:
+  post_menu:
+    client: true
+    type: list
+    default: "read|like|dislike|share|flag|edit|bookmark|bookmarkWithReminder|delete|admin|reply"
+    allow_any: false
+    choices:
+      - read
+      - like
+      - dislike
+      - edit
+      - flag
+      - delete
+      - share
+      - bookmark
+      - admin
+      - reply
+      - bookmarkWithReminder

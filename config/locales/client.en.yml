@@ -1,0 +1,50 @@
+# encoding: utf-8
+#
+# This file contains content for the client portion of Discourse, sent out
+# to the Javascript app.
+#
+# To work with us on translations, see: https://www.transifex.com/projects/p/discourse-org/
+#
+# This is a "source" file, which is used by Transifex to get translations for other languages.
+# After this file is changed, it needs to be pushed by a maintainer to Transifex:
+#
+#   tx push -s
+#
+# Read more here: https://meta.discourse.org/t/contribute-a-translation-to-discourse/14882
+#
+# To validate this YAML file after you change it, please paste it into http://yamllint.com/
+
+en:
+  js:
+    post:
+      has_dislikes_title:
+        one: "%{count} person disliked this post"
+        other: "{{count}} people disliked this post"
+
+      has_dislikes_title_only_you: "you disliked this post"
+      has_dislikes_title_you:
+        one: "you and %{count} other person disliked this post"
+        other: "you and {{count}} other people disliked this post"
+
+      controls:
+        dislike: "dislike this post"
+        has_disliked: "you've disliked this post"
+        undo_dislike: "undo dislike"
+
+      actions:
+        undo:
+          dislike: "Undo dislike"
+        people:
+          dislike:
+            one: "disliked this"
+            other: "disliked this"
+          dislike_capped:
+            one: "and {{count}} other disliked this"
+            other: "and {{count}} others disliked this"
+        by_you:
+          dislike: "You disliked this"
+
+    category:
+      sort_options:
+        dislikes: "Dislikes"
+        op_dislikes: "Original Post Dislikes"

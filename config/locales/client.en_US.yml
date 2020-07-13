@@ -1,0 +1,15 @@
+en_US:
+  js:
+    post:
+      controls:
+        dislike: "dislike this post"
+        has_disliked: "you've disliked this post"
+        undo_dislike: "undo dislike"
+      has_dislikes_title:
+        one: "%{count} person disliked this post"
+        other: "{{count}} people disliked this post"
+
+      has_dislikes_title_only_you: "you disliked this post"
+      has_dislikes_title_you:
+        one: "you and %{count} other person disliked this post"
+        other: "you and {{count}} other people disliked this post"

@@ -1,0 +1,7 @@
+en_US:
+  post:
+    dislike:
+      title: "Dislike"
+      description: "Dislike this post"
+      short_description: "Dislike this post"
+      long_form: "disliked this"
